@@ -16,6 +16,7 @@
 .footerbar{
     background-color: var(--color-main-black);
     display:flex;
+    margin-top:100px;
 }
 
 .footer_txt_div{

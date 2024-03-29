@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c07b7491-4dee-4383-9179-12c35f6bcaaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/homework.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/homework2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/file-clip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/prefixfree.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/homework.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/realhomework.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/realhomework.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/introduce.css" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/introduce.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/introduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/introduce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/homework.html" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/homework.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/navbar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,33 +35,37 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2du1nn48Q8uVMaRnZXxIuyzqcRU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.footer.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.homework.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.introduce.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.nav.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.navbar.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/a0000/Desktop/sorilee&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.footer.html.executor": "Run",
+    "JavaScript Debug.homework.html.executor": "Run",
+    "JavaScript Debug.introduce.html.executor": "Run",
+    "JavaScript Debug.nav.html.executor": "Run",
+    "JavaScript Debug.navbar.html.executor": "Run",
+    "JavaScript Debug.realhomework.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/a0000/Desktop/sorilee",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/LikeLionLMS_FE/img" />
@@ -105,6 +106,7 @@
       <workItem from="1711447459848" duration="19000" />
       <workItem from="1711453211359" duration="5267000" />
       <workItem from="1711610173305" duration="898000" />
+      <workItem from="1711734624743" duration="5666000" />
     </task>
     <servers />
   </component>
