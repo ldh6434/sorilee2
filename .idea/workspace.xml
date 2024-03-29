@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c07b7491-4dee-4383-9179-12c35f6bcaaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/realhomework.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/realhomework.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/homework.html" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/homework.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/navbar.html" afterDir="false" />
-    </list>
+    <list default="true" id="c07b7491-4dee-4383-9179-12c35f6bcaaf" name="Changes" comment="Real finish" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +19,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ldh6434"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a42b5d9e-0ccb-4489-a482-9ffc89554fc3" />
+        <option name="url" value="https://github.com/ldh6434/sorilee2.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -53,7 +65,7 @@
     "JavaScript Debug.realhomework.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "babylion2nd",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/a0000/Desktop/sorilee",
     "list.type.of.created.stylesheet": "CSS",
@@ -106,8 +118,17 @@
       <workItem from="1711447459848" duration="19000" />
       <workItem from="1711453211359" duration="5267000" />
       <workItem from="1711610173305" duration="898000" />
-      <workItem from="1711734624743" duration="5666000" />
+      <workItem from="1711734624743" duration="6315000" />
     </task>
+    <task id="LOCAL-00001" summary="Real finish">
+      <option name="closed" value="true" />
+      <created>1711740420721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711740420721</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +144,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2ndfile" />
+    <MESSAGE value="Real finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Real finish" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
