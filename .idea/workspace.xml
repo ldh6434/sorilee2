@@ -5,31 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c07b7491-4dee-4383-9179-12c35f6bcaaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/introduce.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/LikeLionLMS_FE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/Background2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/actor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/backgound1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/backpack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/book-btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/everton.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/insta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/kau_likelion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/sorilee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/window2_serve.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/introduce.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/homework.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/homework2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/img/file-clip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/prefixfree.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/homework.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/introduce.css" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/introduce.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/introduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/introduce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/navbar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +32,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -62,13 +46,15 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;JavaScript Debug.footer.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.homework.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.introduce.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.nav.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.navbar.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/a0000/IdeaProjects/LikeLionLMS_FE&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/a0000/Desktop/sorilee&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -81,6 +67,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LikeLionLMS_FE/img" />
+      <recent name="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout" />
+      <recent name="$PROJECT_DIR$/LikeLionLMS_FE" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -111,11 +100,27 @@
       <workItem from="1710995809961" duration="7633000" />
       <workItem from="1711138901252" duration="92000" />
       <workItem from="1711140340342" duration="151000" />
+      <workItem from="1711186599396" duration="4246000" />
+      <workItem from="1711277092213" duration="24000" />
+      <workItem from="1711447459848" duration="19000" />
+      <workItem from="1711453211359" duration="5267000" />
+      <workItem from="1711610173305" duration="898000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

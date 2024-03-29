@@ -2,6 +2,7 @@
 .notosanskr * {
     font-family: 'Noto Sans KR', sans-serif;
 }
+
 @font-face {
     font-family: 'Gmarket Sans';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
@@ -47,12 +48,14 @@
     align-items: center;
     -webkit-justify-content: center;
     justify-content: center;
+    margin: auto;
 }
 .serve {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
     max-width: 500px;
     margin-left: 350px;
-    -webkit-flex: 1;
-    flex: 1
 }
 .myself {
     -webkit-flex: 1;
@@ -144,6 +147,6 @@
     text-align: center;
 }
 .insta{
-    width:3%;
-    height:5%;
+    width: 30px;
+    height: 30px;
 }
