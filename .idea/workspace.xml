@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c07b7491-4dee-4383-9179-12c35f6bcaaf" name="Changes" comment="Real finish" />
+    <list default="true" id="c07b7491-4dee-4383-9179-12c35f6bcaaf" name="Changes" comment="Real finish">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/homework2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/homework.html" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/homework.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/LikeLionLMS_FE/JS" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/JS/base.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +22,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -26,12 +34,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ldh6434"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ldh6434&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -54,30 +62,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.footer.html.executor": "Run",
-    "JavaScript Debug.homework.html.executor": "Run",
-    "JavaScript Debug.introduce.html.executor": "Run",
-    "JavaScript Debug.nav.html.executor": "Run",
-    "JavaScript Debug.navbar.html.executor": "Run",
-    "JavaScript Debug.realhomework.html.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "babylion2nd",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/a0000/Desktop/sorilee",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.footer.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.homework.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.introduce.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.main.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.nav.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.navbar.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.realhomework.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/a0000/Desktop/sorilee&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/LikeLionLMS_FE/img" />
@@ -100,6 +109,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="base.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="base.js" working-dir="$PROJECT_DIR$/LikeLionLMS_FE/JS">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -119,6 +131,8 @@
       <workItem from="1711453211359" duration="5267000" />
       <workItem from="1711610173305" duration="898000" />
       <workItem from="1711734624743" duration="6315000" />
+      <workItem from="1712052617158" duration="1319000" />
+      <workItem from="1712054907570" duration="3371000" />
     </task>
     <task id="LOCAL-00001" summary="Real finish">
       <option name="closed" value="true" />
