@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c07b7491-4dee-4383-9179-12c35f6bcaaf" name="Changes" comment="Real finish">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/CSS/homework2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/homework.html" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/homework.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/JS/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/JS/base.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/templates/layout/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/LikeLionLMS_FE/JS" beforeDir="false" afterPath="$PROJECT_DIR$/LikeLionLMS_FE/JS/base.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +92,10 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.main.html">
+    <configuration name="main.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sorilee2/LikeLionLMS_FE/templates/layout/main.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="LikeLionLMS_FE" />
       <method v="2">
@@ -112,6 +112,11 @@
     <configuration name="base.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="base.js" working-dir="$PROJECT_DIR$/LikeLionLMS_FE/JS">
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.main.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -133,6 +138,7 @@
       <workItem from="1711734624743" duration="6315000" />
       <workItem from="1712052617158" duration="1319000" />
       <workItem from="1712054907570" duration="3371000" />
+      <workItem from="1712691690540" duration="3097000" />
     </task>
     <task id="LOCAL-00001" summary="Real finish">
       <option name="closed" value="true" />
